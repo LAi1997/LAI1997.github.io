@@ -2,23 +2,29 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Thank you for visiting!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a research assistant and a doctoral student in the department of computing at Imperial College London. I have been supervised by Prof. Stephen Muggleton (primary) and Prof. Alessandra Russo (secondary) to work on "Optimising Comprehensibility of Machine Learned Logic Programs". Below are **highlights** from my bio:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+`Interest and focus`: Explainable AI and theory of machine learning comprehensibility.
+
+`Specialisation`: Theory and methods of [Inductive Logic Programming](https://en.wikipedia.org/wiki/Inductive_logic_programming)(ILP), in particular [Meta-Interpretive Learning](https://www.doc.ic.ac.uk/~shm/Papers/rulemlabs.pdf) (MIL).
+
+`Recent work`: Constraints on explanatory beneficiality and harmfulness of symbolic machine learned theory, sequential human-machine interactions.
+
+`Current project`: [TAILOR](https://tailor-network.eu/) in EU, a network for AI scientists in learning, optimisation, reasoning and social scientists. We have great collaborations with the [Cognitive System group](https://www.uni-bamberg.de/en/cogsys/schmid/) at the University of Bamberg.
+
+`CV` - [link(to be added)]()
+
+In spare time, I enjoy regular exercise and a variety of sports (swimming, basketball, running, gymming, etc). I have been the leader of Imperial Mandarin Basketball for three years and organised various in and off college events across the country.
+I grew up in Beijing, China and love making Chinese dishes.

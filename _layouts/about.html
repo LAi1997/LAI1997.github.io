@@ -8,7 +8,15 @@ layout: default
     <h1 class="post-title">
      {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
     </h1>
-     <p class="desc">{{ page.description }}</p>
+    <p class="desc">
+      <strong>Research assistant</strong>
+       &
+      <strong>3rd year doctoral student</strong>
+      &nbsp;•&nbsp;
+      <a href="https://www.imperial.ac.uk/computing" target="_blank">Department of Computing</a>
+      &nbsp;•&nbsp;
+      <a href="https://www.imperial.ac.uk" target="_blank">Imperial College London.</a>
+    </p>
   </header>
 
   <article>
@@ -23,20 +31,10 @@ layout: default
         </div>
       {% endif %}
     </div>
-    {% endif %}
-
-    <div class="clearfix">
+    <div class="clearfix" style="vertical-align: middle;">
       {{ content }}
     </div>
-
-    {% if page.news %}
-      {% include news.html %}
     {% endif %}
-
-    {% if page.selected_papers %}
-      {% include selected_papers.html %}
-    {% endif %}
-
     {% if page.social %}
     <div class="social">
       <div class="contact-icons">
