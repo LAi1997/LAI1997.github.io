@@ -1,12 +1,18 @@
 <div class="news">
-  <h2>news</h2>
+  <h2>News</h2>
   {% if site.news  %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
         <tr>
-          <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+          <th scope="row">
+            <div class="col-sm-2 p-0">
+              <span class="badge light-blue darken-1 font-weight-bold text-uppercase align-middle date ml-1">
+                {{ item.date | date: "%b %-d, %Y" }}
+              </span>
+            </div>
+          </th>
           <td>
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}

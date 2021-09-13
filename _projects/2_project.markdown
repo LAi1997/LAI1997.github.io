@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Sports performance evaluator 
+description: SW project in collaboration with an industrial partner
 img: /assets/img/3.jpg
 importance: 2
-category: work
+category: Application
 ---
 
 Every project has a beautiful feature showcase page.
