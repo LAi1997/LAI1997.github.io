@@ -8,7 +8,7 @@ middle_name:
 last_name: Ai
 email: lun.ai15@imperial.ac.com
 description: >
-footer_text: Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+footer_text: >
 icon: 🎓 # the emoji used as the favicon
 url: # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
