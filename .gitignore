@@ -1,4 +1,3 @@
-.idea
 _site
 .bundle
 .sass-cache
@@ -9,3 +8,4 @@ _site
 .tweet-cache
 Gemfile.lock
 vendor
+
