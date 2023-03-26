@@ -10,6 +10,7 @@ p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
 
 a, table.table a {
   color: var(--global-theme-color);
+//   text-decoration: underline;
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;

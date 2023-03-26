@@ -10,15 +10,14 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
+<br/>
+My Ph.D. focuses on effects of symbolic machine-learned explanations on human comprehension in machine-human teaching. I specialise in Inductive Logic Programming (<ins>[ILP](https://en.wikipedia.org/wiki/Inductive_logic_programming)</ins>), in particular Meta-Interpretive Learning (<ins>[MIL](https://www.doc.ic.ac.uk/~shm/Papers/rulemlabs.pdf)</ins>).
 
-Welcome! I am a doctoral student and research assistant in the Department of Computing at Imperial College London. I have been supervised by [Stephen Muggleton](https://wp.doc.ic.ac.uk/shm/) (primary) and [Alessandra Russo](https://www.imperial.ac.uk/people/a.russo).
+`Projects`: EPSRC Human-Like Computing (<ins>[link](http://hlc.doc.ic.ac.uk/)</ins>); EU Horizon TAILOR (<ins>[link](https://tailor-network.eu/)</ins>); AI-4-EB (<ins>[link](https://www.imperial.ac.uk/news/236657/new-uk-wide-ai-engineering-biology-consortium/)</ins>)
 
-`Research topic`: Effects of symbolic machine-learned explanations on human comprehension in machine-human teaching.
+`Supervisor`: Prof. Stephen Muggleton (<ins>[link](https://scholar.google.com/citations?user=WxJXT2MAAAAJ&hl=en)</ins>)
 
-`Specialisation`: Theory and methods of [Inductive Logic Programming](https://en.wikipedia.org/wiki/Inductive_logic_programming)(ILP), in particular [Meta-Interpretive Learning](https://www.doc.ic.ac.uk/~shm/Papers/rulemlabs.pdf) (MIL).
+`Collaborators`: 
+- University of Bamberg (<ins>[Cognitive System Group](https://www.uni-bamberg.de/en/cogsys/schmid/)</ins>)
+- Imperial College London (<ins>[Department of Life Science](https://www.imperial.ac.uk/people/g.baldwin)</ins>)
 
-`Recent work`: Constraints on explanatory effectiveness of symbolic machine learned theory; Ssequential human-machine teaching interactions.
-
-`Current project`: [TAILOR](https://tailor-network.eu/) in EU, a network for AI scientists in learning, optimisation, reasoning and social scientists. We have great collaborations with the [Cognitive System group](https://www.uni-bamberg.de/en/cogsys/schmid/) at the University of Bamberg.
-
-I enjoy exercising and a variety of sports (basketball, swimming, badminton, etc). I was the captain of the Imperial Mandarin Basketball team and organised various sport events across the UK.

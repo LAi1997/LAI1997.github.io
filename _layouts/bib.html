@@ -2,22 +2,21 @@
 ---
 
 <div class="row">
-  <div class="col-sm-2 abbr">
-  {% if entry.abbr %}
-    {% if site.data.venues[entry.abbr] %}
-    <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
-    {% else %}
-    <abbr class="badge">{{entry.abbr}}</abbr>
-    {% endif %}
-  {% endif %}
-  </div>
+<!--  <div class="col-sm-2 abbr">-->
+<!--  {% if entry.abbr %}-->
+<!--    {% if site.data.venues[entry.abbr] %}-->
+<!--    <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>-->
+<!--    {% else %}-->
+<!--    <abbr class="badge">{{entry.abbr}}</abbr>-->
+<!--    {% endif %}-->
+<!--  {% endif %}-->
+<!--  </div>-->
 
-  <div id="{{entry.key}}" class="col-sm-8">
+  <div id="{{entry.key}}" class="col-sm-12">
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
-      <div class="title">{{entry.title}}</div>
-      <div class="author">
+      {{entry.title}}.
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
           {% if author.last == site.scholar.last_name%}
@@ -37,14 +36,14 @@
           
           {% if forloop.length == 1 %}
             {% if author_is_self %}
-              <em>{{author.last}}, {{author.first}}</em>
+              {{author.last}}, {{author.first}}
             {% else %}
               {{author.last}}, {{author.first}}
             {% endif %}
           {% else %}
             {% unless forloop.last %}
               {% if author_is_self %}
-                <em>{{author.last}}, {{author.first}}</em>,
+                {{author.last}}, {{author.first}},
               {% else %}
                 {% if coauthor_url %}
                   <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>,
@@ -65,18 +64,17 @@
             {% endunless %}
           {% endif %}
         {% endfor %}
-      </div>
 
-      <div class="periodical">
       {% if entry.type == "article" %}
-        <em>{{entry.journal}}</em>
+        {{entry.journal}}
       {% elsif entry.type == "inproceedings" %}
-        <em>In {{entry.booktitle}}</em>
+        In {{entry.booktitle}}
+      {% elsif entry.type == "misc" %}
+        {{entry.publisher}}.
       {% endif %}
       {% if entry.year %}
-        {{entry.year}}
+        {{entry.year}}.
       {% endif %}
-      </div>
     {% endif %}
 
     <div class="links">

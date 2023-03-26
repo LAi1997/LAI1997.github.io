@@ -2,7 +2,6 @@
 layout: page
 title: Bio
 permalink: /bio/
-description: A formal introduction
 nav: true
 
 ---
