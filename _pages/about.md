@@ -7,6 +7,8 @@ profile:
   align: right
   image: graduation.jpg
 
+[//]: # (  cv: cv.pdf)
+
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
