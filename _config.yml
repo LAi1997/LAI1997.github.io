@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Dr. # the website title (if blank, full name will be used instead)
+title:  # the website title (if blank, full name will be used instead)
 first_name: Lun
 middle_name:
 last_name: Ai
-email: lun.ai15@imperial.ac.com
+email: lun.ai15@imperial.ac.uk
 description: Research Associate, Department of Computing, Imperial College London, UK.
 footer_text: >
 icon: 🎓 # the emoji used as the favicon
