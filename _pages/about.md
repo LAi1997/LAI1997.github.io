@@ -9,7 +9,7 @@ profile:
 
 [//]: # (  cv: cv.pdf)
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 <br/>
@@ -30,4 +30,3 @@ My doctoral research focused on characterising properties that affect the human 
 `Collaborators`: 
 - Prof. Ute Schmid, University of Bamberg (<ins>[Cognitive System Group](https://www.uni-bamberg.de/en/cogsys/schmid/)</ins>)
 - Prof. Geoff Baldwin, Imperial College London (<ins>[Department of Life Science](https://www.imperial.ac.uk/people/g.baldwin)</ins>)
-
