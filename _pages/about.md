@@ -13,16 +13,21 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 <br/>
-My PhD focuses on effects of symbolic ML on human comprehension and machine-human teaching. I specialise in eXplainable AI (<ins>[XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)</ins>) and Inductive Logic Programming (<ins>[ILP](https://en.wikipedia.org/wiki/Inductive_logic_programming)</ins>).
+It excites me to consider AI's possibilities in reshaping people's lives and our understanding of the world. 
+This has inspired me to explore human-AI interactions and AI-assisted discovery. My current mission is to develop sustainable and user-friendly AI technologies that can help us tackle pressing scientific and societal challenges. 
 
-`Projects`: 
-- EPSRC Human-Like Computing (<ins>[link](http://hlc.doc.ic.ac.uk/)</ins>)
+I am postdoc in the Bioinformatics group of Dept. Computing at Imperial College London. 
+I specialise in the theory and methods of logic-based AI (Inductive Logic Programming, <ins>[ILP](https://en.wikipedia.org/wiki/Inductive_logic_programming)</ins>) with a passion in eXplainable AI (<ins>[XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)</ins>), human-performance-enhancing AI and autonomous discovery systems. 
+My doctoral research focused on characterising properties that affect the human understanding of ILP systems via operational approaches and build frameworks to facilitate better human performance.
+
+`Research experience`: 
+- BBSRC AI-4-EB (<ins>[link](https://www.imperial.ac.uk/news/236657/new-uk-wide-ai-engineering-biology-consortium/)</ins>) (Current)
 - EU Horizon TAILOR (<ins>[link](https://tailor-network.eu/)</ins>)
-- BBSRC AI-4-EB (<ins>[link](https://www.imperial.ac.uk/news/236657/new-uk-wide-ai-engineering-biology-consortium/)</ins>)
+- EPSRC Human-Like Computing (<ins>[link](http://hlc.doc.ic.ac.uk/)</ins>)
 
-`Supervisor`: Prof. Stephen Muggleton (<ins>[link](https://scholar.google.com/citations?user=WxJXT2MAAAAJ&hl=en)</ins>)
+`PhD Supervisor`: Prof. Stephen Muggleton (<ins>[link](https://scholar.google.com/citations?user=WxJXT2MAAAAJ&hl=en)</ins>)
 
 `Collaborators`: 
-- University of Bamberg (<ins>[Cognitive System Group](https://www.uni-bamberg.de/en/cogsys/schmid/)</ins>)
-- Imperial College London (<ins>[Department of Life Science](https://www.imperial.ac.uk/people/g.baldwin)</ins>)
+- Prof. Ute Schmid, University of Bamberg (<ins>[Cognitive System Group](https://www.uni-bamberg.de/en/cogsys/schmid/)</ins>)
+- Prof. Geoff Baldwin, Imperial College London (<ins>[Department of Life Science](https://www.imperial.ac.uk/people/g.baldwin)</ins>)
 
