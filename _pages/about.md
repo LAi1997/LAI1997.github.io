@@ -12,10 +12,10 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 <br/>
+I am postdoc in the Bioinformatics group of Dept. Computing at Imperial College London.
 It excites me to consider AI's possibilities in reshaping people's lives and our understanding of the world.
-My career mission is to develop sustainable and user-friendly AI technologies that can help us tackle pressing scientific and societal challenges. 
 
-I am postdoc in the Bioinformatics group of Dept. Computing at Imperial College London. 
+My career mission is to develop sustainable and user-friendly AI technologies that can help us tackle pressing scientific and societal challenges.
 I specialise in the theory and methods of logic-based AI (Inductive Logic Programming, <ins>[ILP](https://en.wikipedia.org/wiki/Inductive_logic_programming)</ins>) with a passion in eXplainable AI (<ins>[XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)</ins>), human-performance-enhancing AI and autonomous discovery systems.
 
 `Research experience`: 
