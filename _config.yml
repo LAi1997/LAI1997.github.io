@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Dr. # the website title (if blank, full name will be used instead)
 first_name: Lun
 middle_name:
 last_name: Ai
 email: lun.ai15@imperial.ac.com
-description: >
+description: Research Associate, Department of Computing, Imperial College London, UK.
 footer_text: >
 icon: 🎓 # the emoji used as the favicon
 url: https://lai1997.github.io # the base hostname & protocol for your site
@@ -110,7 +110,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
