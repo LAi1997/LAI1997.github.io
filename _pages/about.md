@@ -12,7 +12,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 <br/>
-I am postdoc in the Bioinformatics group of Dept. Computing at Imperial College London.
+I am postdoc in the Computational Bioinformatics Lab of Dept. Computing at Imperial College London.
 It excites me to consider AI's possibilities in reshaping people's lives and our understanding of the world.
 
 My career mission is to develop sustainable and user-friendly AI technologies that can help us tackle pressing scientific and societal challenges.
