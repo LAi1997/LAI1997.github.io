@@ -24,4 +24,4 @@ My career mission is to develop sustainable and user-friendly AI technologies th
 - UKRI EPSRC Network+ <ins>[Human-Like Computing](http://hlc.doc.ic.ac.uk/)</ins> (2019 - 2024)
 
 `Doctoral research`: 
-I built Ultra-Strong Machine Learning (human-AI partnership) frameworks and characterised properties to enhance human learning via operational approaches and ILP systems. I obtained my doctoral degree under the supervision of Prof. <ins>[Stephen Muggleton](https://scholar.google.com/citations?user=WxJXT2MAAAAJ&hl=en)</ins>, in collaboration with Prof. (<ins>[Ute Schmid](https://www.uni-bamberg.de/en/cogsys/schmid/)</ins>) from University of Bamberg. 
+I built Ultra-Strong Machine Learning (human-AI partnership) frameworks and characterised properties to enhance human learning via operational approaches and ILP systems. I obtained my doctoral degree under the supervision of Prof. <ins>[Stephen Muggleton](https://scholar.google.com/citations?user=WxJXT2MAAAAJ&hl=en)</ins>, in collaboration with Prof. <ins>[Ute Schmid](https://www.uni-bamberg.de/en/cogsys/schmid/)</ins> from University of Bamberg. 
