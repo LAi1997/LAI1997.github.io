@@ -6,9 +6,9 @@ nav: true
 
 ---
 
-Dr. Lun Ai is a Research Associate in the Department of Computing at Imperial College London. 
-He was given the entry scholarship and awarded an MEng degree in Computing with a specialist in Artificial Intelligence at Imperial College London. 
-At Imperial College London, he received his PhD under the supervision of Prof. Stephen Muggleton.  
+Dr. Lun Ai is a postdoctoral researcher in the Department of Life Sciences at Imperial College London.
+ 
+He was given the entry scholarship and awarded an MEng degree in Computing with a specialist in Artificial Intelligence at Imperial College London. He received his PhD at Imperial College London, under the supervision of Prof. Stephen Muggleton.  
 
 Dr. Lun Ai specialises in the theory and implementations of Inductive Logic Programming (ILP). 
 He has strong interests in Explainable AI and Computational Scientific Discovery. 

@@ -5,29 +5,26 @@ permalink: /
 
 profile:
   align: right
-  image: graduation.jpg
+  image: profile.jpg
 
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 <br/>
-I am postdoc in the Computational Bioinformatics Lab of Dept. Computing at Imperial College London.
-It excites me to consider AI's possibilities in reshaping people's lives and our understanding of the world.
 
-My career mission is to develop sustainable and user-friendly AI technologies that can help us tackle pressing scientific and societal challenges.
-I specialise in the theory and methods of logic-based AI (Inductive Logic Programming, <ins>[ILP](https://en.wikipedia.org/wiki/Inductive_logic_programming)</ins>) with a passion in eXplainable AI (<ins>[XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)</ins>), human-performance-enhancing AI and autonomous discovery systems.
+I am postdoc in the Synthetic Biology (<ins>[Baldwin](https://www.imperial.ac.uk/people/g.baldwin)</ins>) Lab at Imperial College London.
 
-`Research experience`: 
-- BBSRC AI-4-EB (<ins>[link](https://www.imperial.ac.uk/news/236657/new-uk-wide-ai-engineering-biology-consortium/)</ins>) (Current)
-- EU Horizon TAILOR (<ins>[link](https://tailor-network.eu/)</ins>)
-- EPSRC Human-Like Computing (<ins>[link](http://hlc.doc.ic.ac.uk/)</ins>)
+`Interests`:
 
-`Collaborators`: 
-- Prof. Ute Schmid, University of Bamberg (<ins>[Cognitive System Group](https://www.uni-bamberg.de/en/cogsys/schmid/)</ins>)
-- Prof. Geoff Baldwin, Imperial College London (<ins>[Department of Life Science](https://www.imperial.ac.uk/people/g.baldwin)</ins>)
+It excites me to consider AI's possibilities in reshaping people's lives and our understanding of the world. 
 
-`PhD research`: 
-Supervised by Prof. Stephen Muggleton (<ins>[link](https://scholar.google.com/citations?user=WxJXT2MAAAAJ&hl=en)</ins>), my doctoral research focused on characterising properties that affect the human understanding of ILP systems via operational approaches and build frameworks to facilitate better human performance. 
+My career mission is to develop sustainable and user-friendly AI technologies that can help us tackle pressing scientific and societal challenges. I specialise in the theory and methods of logic-based AI (Inductive Logic Programming, <ins>[ILP](https://en.wikipedia.org/wiki/Inductive_logic_programming)</ins>) with a passion in eXplainable AI (<ins>[XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)</ins>), human-performance-enhancing AI and autonomous discovery systems.
 
+`Networks`:
+- UKRI BBSRC <ins>[AI-4-EB](https://www.imperial.ac.uk/news/236657/new-uk-wide-ai-engineering-biology-consortium/)</ins> (2022 - 2024)
+- EU Horizon <ins>[TAILOR](https://tailor-network.eu/)</ins> (2020 - 2023)
+- UKRI EPSRC Network+ <ins>[Human-Like Computing](http://hlc.doc.ic.ac.uk/)</ins> (2019 - 2024)
 
+`Doctoral research`: 
+I built Ultra-Strong Machine Learning (human-AI partnership) frameworks and characterised properties to enhance human learning via operational approaches and ILP systems. I obtained my doctoral degree under the supervision of Prof. <ins>[Stephen Muggleton](https://scholar.google.com/citations?user=WxJXT2MAAAAJ&hl=en)</ins>, in collaboration with Prof. (<ins>[Ute Schmid](https://www.uni-bamberg.de/en/cogsys/schmid/)</ins>) from University of Bamberg. 
