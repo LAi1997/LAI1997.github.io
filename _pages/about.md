@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 I am postdoc in the Synthetic Biology (<ins>[Baldwin](https://www.imperial.ac.uk/people/g.baldwin)</ins>) Lab at Imperial College London. It excites me to consider AI's possibilities in reshaping people's lives and our understanding of the world. 
 
 `Interests`:
-My career mission is to develop sustainable and user-friendly AI technologies that can help us tackle pressing scientific and societal challenges. I specialise in logic-based AI (Inductive Logic Programming, <ins>[ILP](https://en.wikipedia.org/wiki/Inductive_logic_programming)</ins>) eXplainable AI (<ins>[XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)</ins>), human-AI partnerships and AI in science.
+My career mission is to develop sustainable and user-friendly AI technologies that can help us tackle pressing scientific and societal challenges. I specialise in AI in science, human-AI partnerships, eXplainable AI (<ins>[XAI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)</ins>) and logic-based AI (Inductive Logic Programming, <ins>[ILP](https://en.wikipedia.org/wiki/Inductive_logic_programming)</ins>).
 
 `Networks`:
 - UKRI BBSRC <ins>[AI-4-EB](https://www.imperial.ac.uk/news/236657/new-uk-wide-ai-engineering-biology-consortium/)</ins> (2022 - 2024)
